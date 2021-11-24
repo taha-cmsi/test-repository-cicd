@@ -3075,9 +3075,6 @@
                 ],
                 "anomalyVersion": "1.0.4",
                 "techniques": [
-                    "41",
-                    "147",
-                    "69"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -3247,7 +3244,6 @@
                 ],
                 "anomalyVersion": "1.0.2",
                 "techniques": [
-                    "25"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -3384,13 +3380,6 @@
                 ],
                 "anomalyVersion": "1.0.2",
                 "techniques": [
-                    "59",
-                    "93",
-                    "50",
-                    "72",
-                    "73",
-                    "114",
-                    "41"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -3564,8 +3553,6 @@
                 ],
                 "anomalyVersion": "1.0.2",
                 "techniques": [
-                    "79",
-                    "114"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -3857,19 +3844,6 @@
                 ],
                 "anomalyVersion": "1.0.4",
                 "techniques": [
-                    "1",
-                    "6",
-                    "38",
-                    "46",
-                    "49",
-                    "51",
-                    "52",
-                    "68",
-                    "88",
-                    "149",
-                    "152",
-                    "153",
-                    "154"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -3936,7 +3910,6 @@
                 ],
                 "anomalyVersion": "1.0.4",
                 "techniques": [
-                    "149"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
