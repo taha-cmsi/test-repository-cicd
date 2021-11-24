@@ -62,11 +62,6 @@
                 ],
                 "anomalyVersion": "1.0.4",
                 "techniques": [
-                    "17",
-                    "18",
-                    "24",
-                    "124",
-                    "148"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -448,10 +443,6 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "93",
-                    "3",
-                    "22",
-                    "59"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -902,10 +893,6 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "71",
-                    "38",
-                    "49",
-                    "152"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -945,11 +932,6 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "14",
-                    "93",
-                    "3",
-                    "22",
-                    "59"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -1000,8 +982,6 @@
                 ],
                 "anomalyVersion": "1.0.4",
                 "techniques": [
-                    "18",
-                    "38"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -1064,7 +1044,6 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "14"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
@@ -1137,8 +1116,6 @@
                 ],
                 "anomalyVersion": "1.0.2",
                 "techniques": [
-                    "78",
-                    "38"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
