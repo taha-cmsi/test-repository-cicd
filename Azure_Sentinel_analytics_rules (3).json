@@ -62,11 +62,9 @@
                 ],
                 "anomalyVersion": "1.0.4",
                 "techniques": [
-                    "8",
                     "17",
                     "18",
                     "24",
-                    "8",
                     "124",
                     "148"
                 ],
@@ -450,7 +448,6 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "120",
                     "93",
                     "3",
                     "22",
@@ -905,7 +902,6 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "25",
                     "71",
                     "38",
                     "49",
@@ -949,7 +945,7 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "120",
+                    "14",
                     "93",
                     "3",
                     "22",
@@ -1068,7 +1064,7 @@
                 ],
                 "anomalyVersion": "1.0.3",
                 "techniques": [
-                    "18"
+                    "14"
                 ],
                 "frequency": "P1D",
                 "ruleStatus": "Production",
