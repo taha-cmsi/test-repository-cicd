@@ -1,0 +1,13 @@
+TIProviders:
+  # If a provider has Primary: True it will be run by default on IoC lookups
+  # Secondary providers can be
+  OTX:
+    Args:
+      AuthKey: "4ea41beb-4546-4fba-890b-55553ce6003a"
+    Primary: True
+    Provider: "OTX" # WARNING - Do not change Provider values!
+  VirusTotal:
+    Args:
+      AuthKey: "b302017e7a601150caf5065f4abe72bcbb987fb64e296266330a25473cd98b12"
+    Primary: True
+    Provider: "VirusTotal"
