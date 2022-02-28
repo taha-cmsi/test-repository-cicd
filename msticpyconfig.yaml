@@ -1,3 +1,12 @@
+KeyVault:
+  TenantId: 2277552f-1127-4d80-b370-c57493be27aa
+  SubscriptionId: 49328b1f-ecfa-4334-ac66-5fdb0cbd70bf
+  ResourceGroup: Feature-Testing-RG
+  AzureRegion: centralus
+  VaultName: "featuretesting0499609163"
+  UseKeyring: True
+  Authority: global
+  AuthnType: device
 TIProviders:
   # If a provider has Primary: True it will be run by default on IoC lookups
   # Secondary providers can be
