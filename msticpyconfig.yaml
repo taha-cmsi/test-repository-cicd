@@ -20,3 +20,9 @@ TIProviders:
       AuthKey: "b302017e7a601150caf5065f4abe72bcbb987fb64e296266330a25473cd98b12"
     Primary: True
     Provider: "VirusTotal"
+OtherProviders:
+  GeoIPLite:
+    Args:
+      AuthKey: "DITRHe2lFDKatu5b"
+      DBFolder: "~/.msticpy"
+    Provider: "GeoLiteLookup"
